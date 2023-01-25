@@ -1,2 +1,2 @@
 # NU-SEMESTER-6
-SEMESTER - 6 NU
+Nirma University SEMESTER-6 CSE
