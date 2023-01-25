@@ -1,2 +1,4 @@
 # NU-SEMESTER-6
-Nirma University SEMESTER-6 CSE
+Courses from Computer Science and Engineering - Institute of Technology, Nirma University.
+
+        
